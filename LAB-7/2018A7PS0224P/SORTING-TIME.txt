@@ -1,0 +1,5 @@
+N: 10000 , Hybrid Sorting Time: 1.446000 ms
+N: 100000 , Hybrid Sorting Time: 18.304000 ms
+N: 1000000 , Hybrid Sorting Time: 206.956000 ms
+N: 10000000 , Hybrid Sorting Time: 2397.953000 ms
+N: 100000000 , Hybrid Sorting Time: 38731.981000 ms
